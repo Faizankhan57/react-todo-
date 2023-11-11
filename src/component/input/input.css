@@ -1,0 +1,11 @@
+.Input {
+    border: 2px solid #5e4848;
+    border-radius: 30px;
+    padding: 10px;
+    font-size: 30px;
+    width: 500px;
+    height: 50px;
+    background-color:rgb(48, 102, 219);
+    margin: 10px;
+  }
+  
